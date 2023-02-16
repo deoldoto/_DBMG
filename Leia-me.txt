@@ -1,0 +1,9 @@
+Executar os scripts
+Rodar o servidor
+Rodar o cliente
+
+Tive um pouco de dificuldade para utilizar as interfaces de objeto no delphi, por isso acabei não utilizando
+Não cosnegui instalar um componente de relatório, estava utilizando o delpgi alexandria.
+Utilizei o Zeos por limitações do firedac com a base sqlserver na versão comunity
+Me desculpem pelo prazo, essa semana foi bem complicada. Estou a disposição para qualquer dúvida.
+Eu iniciei a geraçãod e relatórios pro HTML, mas devido ao tempo, não ocnsegui concluir. 

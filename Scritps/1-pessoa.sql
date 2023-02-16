@@ -1,0 +1,21 @@
+USE [BDMG]
+GO
+
+/****** Object:  Table [dbo].[pessoa]    Script Date: 16/02/2023 17:05:12 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[pessoa](
+	[id] [int] NOT NULL,
+	[nome] [varchar](50) NULL,
+	[cpf_cnpj] [varchar](14) NULL,
+ CONSTRAINT [PK_pessoa] PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+

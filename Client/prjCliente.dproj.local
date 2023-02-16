@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/12 11:45:33.000.426,=C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/02/12 11:46:12.000.016,C:\BDMG\Client\unMenuPrincipal.dfm=C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2023/02/12 11:46:12.000.016,C:\BDMG\Client\unMenuPrincipal.pas=C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/02/12 11:46:15.000.586,C:\BDMG\Client\prjCliente.dproj=C:\Users\tiago\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/02/12 11:46:28.000.436,=C:\BDMG\Classes\listFornecedor.pas</Transaction>
+    <Transaction>2023/02/12 11:46:28.000.416,=C:\BDMG\Classes\listCliente.pas</Transaction>
+    <Transaction>2023/02/12 11:46:28.000.476,=C:\BDMG\Classes\listProduto.pas</Transaction>
+    <Transaction>2023/02/12 11:46:28.000.396,=C:\BDMG\Classes\fornecedor.pas</Transaction>
+    <Transaction>2023/02/12 11:46:28.000.351,=C:\BDMG\Classes\cliente.pas</Transaction>
+    <Transaction>2023/02/12 11:46:28.000.516,=C:\BDMG\Classes\listVendasItem.pas</Transaction>
+    <Transaction>2023/02/12 11:46:28.000.496,=C:\BDMG\Classes\listVendas.pas</Transaction>
+    <Transaction>2023/02/12 11:46:28.000.596,=C:\BDMG\Classes\vendaItem.pas</Transaction>
+    <Transaction>2023/02/12 11:46:28.000.451,=C:\BDMG\Classes\listPessoa.pas</Transaction>
+    <Transaction>2023/02/12 11:46:28.000.576,=C:\BDMG\Classes\uPessoa.pas</Transaction>
+    <Transaction>2023/02/12 11:46:28.000.633,=C:\BDMG\Classes\vendas.pas</Transaction>
+    <Transaction>2023/02/12 11:46:28.000.556,=C:\BDMG\Classes\produto.pas</Transaction>
+    <Transaction>2023/02/12 11:48:13.000.281,=C:\BDMG\Client\Unit1.pas</Transaction>
+    <Transaction>2023/02/12 11:48:19.000.451,C:\BDMG\Client\frmCliente.pas=C:\BDMG\Client\Unit1.pas</Transaction>
+    <Transaction>2023/02/12 11:48:19.000.451,C:\BDMG\Client\frmCliente.dfm=C:\BDMG\Client\Unit1.dfm</Transaction>
+    <Transaction>2023/02/12 20:29:58.000.296,=C:\BDMG\Client\Unit1.pas</Transaction>
+    <Transaction>2023/02/12 20:30:14.000.898,C:\BDMG\Client\restRequestSingleton.pas=C:\BDMG\Client\Unit1.pas</Transaction>
+    <Transaction>2023/02/12 22:33:14.000.323,=C:\BDMG\Client\Unit1.pas</Transaction>
+    <Transaction>2023/02/12 22:33:28.000.172,C:\BDMG\Client\baseConsulta.pas=C:\BDMG\Client\Unit1.pas</Transaction>
+    <Transaction>2023/02/12 22:33:28.000.172,C:\BDMG\Client\baseConsulta.dfm=C:\BDMG\Client\Unit1.dfm</Transaction>
+    <Transaction>2023/02/12 22:34:05.000.908,=C:\BDMG\Client\Unit2.pas</Transaction>
+    <Transaction>2023/02/12 22:34:15.000.880,C:\BDMG\Client\frmConsultaPessoa.pas=C:\BDMG\Client\Unit2.pas</Transaction>
+    <Transaction>2023/02/12 22:34:15.000.880,C:\BDMG\Client\frmConsultaPessoa.dfm=C:\BDMG\Client\Unit2.dfm</Transaction>
+    <Transaction>2023/02/13 21:38:26.000.097,=C:\BDMG\Client\Unit2.pas</Transaction>
+    <Transaction>2023/02/13 21:38:35.000.376,C:\BDMG\Client\frmCadastroFornecedor.dfm=C:\BDMG\Client\Unit2.dfm</Transaction>
+    <Transaction>2023/02/13 21:38:35.000.376,C:\BDMG\Client\frmCadastroFornecedor.pas=C:\BDMG\Client\Unit2.pas</Transaction>
+    <Transaction>2023/02/13 22:28:05.000.209,=C:\BDMG\Client\Unit4.pas</Transaction>
+    <Transaction>2023/02/13 22:28:12.000.030,C:\BDMG\Client\frmCOnsultaFornecedor.dfm=C:\BDMG\Client\Unit4.dfm</Transaction>
+    <Transaction>2023/02/13 22:28:12.000.030,C:\BDMG\Client\frmCOnsultaFornecedor.pas=C:\BDMG\Client\Unit4.pas</Transaction>
+    <Transaction>2023/02/14 09:18:36.000.208,=C:\BDMG\Client\Unit2.pas</Transaction>
+    <Transaction>2023/02/14 09:18:44.000.589,C:\BDMG\Client\uFrmCadProduto.pas=C:\BDMG\Client\Unit2.pas</Transaction>
+    <Transaction>2023/02/14 09:18:44.000.589,C:\BDMG\Client\uFrmCadProduto.dfm=C:\BDMG\Client\Unit2.dfm</Transaction>
+    <Transaction>2023/02/14 10:48:31.000.611,=C:\BDMG\Client\Unit2.pas</Transaction>
+    <Transaction>2023/02/14 10:49:06.000.121,C:\BDMG\Client\uFrmConsultaProduto.dfm=C:\BDMG\Client\Unit2.dfm</Transaction>
+    <Transaction>2023/02/14 10:49:06.000.121,C:\BDMG\Client\uFrmConsultaProduto.pas=C:\BDMG\Client\Unit2.pas</Transaction>
+    <Transaction>2023/02/15 11:19:33.000.648,=C:\BDMG\Client\Unit2.pas</Transaction>
+    <Transaction>2023/02/15 11:25:41.000.150,C:\BDMG\Client\Unit2.pas=C:\BDMG\Client\uFrmPedido.pas</Transaction>
+    <Transaction>2023/02/15 11:25:41.000.150,C:\BDMG\Client\Unit2.dfm=C:\BDMG\Client\uFrmPedido.dfm</Transaction>
+    <Transaction>2023/02/16 06:41:53.000.763,=C:\BDMG\Client\Unit2.pas</Transaction>
+    <Transaction>2023/02/16 06:42:20.000.895,C:\BDMG\Client\Unit2.dfm=C:\BDMG\Client\ufrmConsultaPedido.dfm</Transaction>
+    <Transaction>2023/02/16 06:42:20.000.895,C:\BDMG\Client\Unit2.pas=C:\BDMG\Client\ufrmConsultaPedido.pas</Transaction>
+    <Transaction>2023/02/16 15:39:01.339,=C:\BDMG\Client\Unit2.pas</Transaction>
+    <Transaction>2023/02/16 15:44:33.737,C:\BDMG\Client\uRelCliente.dfm=C:\BDMG\Client\Unit2.dfm</Transaction>
+    <Transaction>2023/02/16 15:44:33.737,C:\BDMG\Client\uRelCliente.pas=C:\BDMG\Client\Unit2.pas</Transaction>
+    <Transaction>2023/02/16 15:51:13.858,=C:\BDMG\Client\Unit2.pas</Transaction>
+    <Transaction>2023/02/16 15:51:28.466,C:\BDMG\Client\uRelPedidos.pas=C:\BDMG\Client\Unit2.pas</Transaction>
+    <Transaction>2023/02/16 15:51:28.466,C:\BDMG\Client\uRelPedidos.dfm=C:\BDMG\Client\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
